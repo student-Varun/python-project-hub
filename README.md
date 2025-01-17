@@ -42,5 +42,5 @@ This repository is designed to help Python enthusiasts:
 
 
 ## Got questions, feedback, or suggestions? Let’s connect!
-📮 Email: [your-email@example.com]
-🌐 Portfolio: your-portfolio-link
+📮 Email: [varuntrikha16@gmail.com]
+🌐 Portfolio: https://vite-portfolio-seven-mu.vercel.app/
